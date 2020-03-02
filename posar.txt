@@ -1,0 +1,13 @@
+Tipo titols
+
+<link href="https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap" rel="stylesheet">
+
+font-family: 'Permanent Marker', ;
+
+Tipo base
+
+<link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+
+font-family: 'Raleway', ;
+
+https://www.w3schools.com/howto/howto_google_fonts.asp
